@@ -16,7 +16,7 @@
     <body>
         <div class="text-center">
             <h1 class="text-center">{{$contact['name']}}</h1>
-            <a href="http://127.0.0.1:8000/">Home</a>
+            <a href="/">Home</a>
         </div>
 
     </body>
